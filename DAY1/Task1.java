@@ -1,3 +1,4 @@
+package DAY1;
 import java.util.Scanner;
 
 class  Solution {
